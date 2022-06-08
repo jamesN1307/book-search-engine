@@ -37,7 +37,12 @@ Make sure you have MongoDB installed on your machine (if you don't, follow the i
 ## screenshot 
 
 ![Screenshot 2022-06-07 224857](https://user-images.githubusercontent.com/97413286/172541623-b1e73da3-a14e-4233-896f-0838f26c95f4.png)
+
+________
 ![Screenshot 2022-06-07 224930](https://user-images.githubusercontent.com/97413286/172541628-5770f8c1-e198-4a0a-8543-3e2db94ca14b.png)
+
+_____
+![Screenshot 2022-06-07 225201](https://user-images.githubusercontent.com/97413286/172541779-4bb6c105-9f73-4359-8ae5-2f3576cd5601.png)
 
 
 ## Credits
